@@ -1,28 +1,28 @@
-##Organizational list
+## Organizational list
 1. Unity 2020.3.14f1 (https://unity3d.com/get-unity/download/archive)
 2. Clone this repo (how to use git: https://www.youtube.com/watch?v=RPagOAUx2SQ&ab_channel=EXPLOI.T.)
 3. To submit a task please send git repo (from your account) or just a zip file of project
 4. You can ask questions in our chat group
 
-##Theory
+## Theory
 1. What is decomposition? https://en.wikipedia.org/wiki/Decomposition_(computer_science)
 2. What is Black-box approache? https://en.wikipedia.org/wiki/Black_box
 3. Flappy Bird  (https://youtu.be/lQz6xhlOt18?t=258)
 
-##Decomposition of Flappy Bird
+## Decomposition of Flappy Bird
   
-###1. Rendering
+### 1. Rendering
 - Show image
 - Show background images
 - Show obstacle images
-###2. Movement
+### 2. Movement
 - Image move up/down forward
 - Image rotate
-###3. GamePlay
+### 3. GamePlay
 - Image can touch
 - Event to trigger lose
 - Pause game
-###4. UI
+### 4. UI
 - Show UI 
 - Start/Restart game
     
@@ -60,8 +60,8 @@ At this stage you should be able to detect if objects collides with each other a
 
 At this stage you should be able to show UI if player loses and restart the scene if Restart is pressed.
 
-###6. Homework
-####Make a "flappy bird"-like game, it should include basic mechanics.
+### 6. Homework
+#### Make a "flappy bird"-like game, it should include basic mechanics.
 1. A Bird that move up/down and forward(right)
 2. If collides with obstacle it show the UI and stop the game.
 3. On press Button it restarts the game
@@ -69,11 +69,11 @@ At this stage you should be able to show UI if player loses and restart the scen
 5. The level should repeat it self, random generation are topis for next lessons 
 6. The game is expected to be playable
 
-####Additional tasks (carma bonus)
+#### Additional tasks (carma bonus)
 - Point system, see the original game
 - Sounds/Effets, up to you
 - Animation of UI
 
-####Make a decomposition of hellix jump 
+#### Make a decomposition of hellix jump 
 - Gameplay video: https://www.youtube.com/watch?v=SNbzevhRBNk&ab_channel=AaronHuggett). 
 - We will discuss together on next meeting
