@@ -26,7 +26,7 @@
 - Show UI 
 - Start/Restart game
     
-##Implementation
+## Implementation
 
 ### 1. Rendering
 - Png/JPG can be imported in Unity. SpriteEditor (https://www.youtube.com/watch?v=gbgIA3pwpHc&ab_channel=Unity)
